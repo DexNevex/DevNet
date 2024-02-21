@@ -1,0 +1,14 @@
+---
+people:
+- Id: 1
+  Firstname: Albert
+  Lastname: Einstein
+  Alive: false
+
+- Id: 2
+  Firstname: Martin
+  Lastname: King
+  Alive: false
+...
+
+
